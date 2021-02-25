@@ -3,6 +3,10 @@
 @tailwind utilities;
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+* {
+	font-family: 'PT Sans';
+}
+
 .cursive {
 	font-style: 'PT Sans', cursive;
 	font-weight: 700;
