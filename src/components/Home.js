@@ -5,7 +5,7 @@ const Home = () => {
 		<main className='absolute w-full h-screen'>
 			<img
 				src='/assets/3DVisaCard.jpg'
-				alt='Image of Card'
+				alt='Card'
 				className='absolute object-cover w-full h-screen'
 			/>
 			<section className='relative flex justify-center min-h-screen pt-12 lg:pt-16'>

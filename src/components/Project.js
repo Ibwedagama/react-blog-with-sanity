@@ -58,9 +58,9 @@ const Project = () => {
 										</p>
 										<a
 											href={project.link}
-											rel='noopener referrer'
 											alt={project.title}
 											target='_blank'
+											rel='referrer'
 											className='text-red-500 font-bold underline hover:text-red-400'
 										>
 											View the Project
