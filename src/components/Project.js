@@ -60,7 +60,7 @@ const Project = () => {
 											href={project.link}
 											alt={project.title}
 											target='_blank'
-											rel='referrer'
+											rel='noreferrer'
 											className='text-red-500 font-bold underline hover:text-red-400'
 										>
 											View the Project
